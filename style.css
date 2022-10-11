@@ -67,8 +67,7 @@ nav .navbar .menu li {
 }
 
 .navbar .menu li a{
-    font-size: 18px;
-    font-size: 500;
+    font-size: 18px;   
     color: #0E2431;
     transition: all 0.3s ease;
 }
@@ -99,8 +98,7 @@ nav.sticky .navbar .media-icons a{
 
 nav .menu-btn, .navbar .cancel-btn{
     position: absolute;
-    color: #fff;
-    font-size: 20px;
+    color: #fff;  
     font-size: 20px;
     right: 30px;
     top: 20px;
